@@ -1,1 +1,1 @@
-# MPU9250_python_Driver
+# MPU9250(imu)_python_Driver
